@@ -20,9 +20,62 @@
     height: 360px;
     margin: 5px;
     display: inline-block;
-    background-image: radial-gradient(white 0%, #7c86a2 100%);
+    background-image: radial-gradient(ellipse, white 0%, #7c86a2 100%);
+    -webkit-user-select: none;
     cursor: default;
     transition: transform 0.15s ease-out;
+}
+
+.overwatch-hero-card:hover {
+    transform: scale(1.1);
+    outline: 3px solid white;
+}
+
+.overwatch-hero-card .thumbnail {
+    width: 100%;
+    height: 60%;
+    background-size: cover;
+    background-position: center;
+}
+
+.overwatch-hero-card .info {
+    color: #091737;
+    font-family: BigNoodleTooOblique;
+}
+
+.overwatch-hero-card .info .name {
+    text-align: center;
+    padding: 5px 0px;
+    font-size: 44px;
+}
+
+.overwatch-hero-card .info .unlock-progress {
+    height: 10px;
+    background-color: #c3d6e3;
+}
+
+.overwatch-hero-card .info .unlock-progress .progress-bar {
+    content: '';
+    display: block;
+    height: 100%;
+}
+
+.overwatch-hero-card .info .unlock-count {
+    font-family: Futura;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.overwatch-hero-card .info .unlock-count .unlocked {
+    display: inline-block;
+    font-size: 42px;
+}
+
+.overwatch-hero-card .info .unlock-count .total {
+    display: inline-block;
+    font-size: 22px;
+    color: #398cd5;
+    vertical-align: bottom;
 }
 
 html {
