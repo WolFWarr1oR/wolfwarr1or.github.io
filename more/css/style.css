@@ -1,12 +1,22 @@
 @font-face {
     font-family: BigNoodleTitlingCyr;
     src: url('https://wolfwarr1or.github.io/main/font/10318.ttf');
+    font-style: italic;
 }
 
 .more-text {
     font-family: BigNoodleTitlingCyr;
     font-style: italic;
-    font-size: 10pt;
+    text-align: center;
+    letter-spacing: 15px;
+    transform: uppercase;
+    font-size: 120px;
+    stroke: 1px #333;
+    opacity: 0.8;
+    background: linear-gradient(45deg, f(#fff), (#555));
+    background-clip: text;
+    background-color: transparent;
+
 }
 
 
