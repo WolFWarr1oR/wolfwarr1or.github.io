@@ -1,12 +1,15 @@
 @font-face {
     font-family: BigNoodleTitlingCyr;
     src: url('https://wolfwarr1or.github.io/main/font/7fonts.ru_big_noodle_titling_oblique.ttf');
+    font-style: italic;
 }
 
 
 
 .section-header {
     font-family: BigNoodleTitlingCyr;
+    font-style: italic;
+    text-align: center;
     letter-spacing: 15px;
     transform: uppercase;
     font-size: 120px;
