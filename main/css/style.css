@@ -13,7 +13,12 @@
 
 @font-face {
     font-family: Futura;
-    src: url('https://wolfwarr1or.github.io/main/font/FuturaDemiC.tts');
+    src: url("//db.onlinewebfonts.com/t/7235e5b8832b1ca035697b412f39b2d5.eot");
+    src: url("//db.onlinewebfonts.com/t/7235e5b8832b1ca035697b412f39b2d5.eot?#iefix") format("embedded-opentype"),
+        url("//db.onlinewebfonts.com/t/7235e5b8832b1ca035697b412f39b2d5.woff2") format("woff2"),
+        url("//db.onlinewebfonts.com/t/7235e5b8832b1ca035697b412f39b2d5.woff") format("woff"),
+        url("//db.onlinewebfonts.com/t/7235e5b8832b1ca035697b412f39b2d5.ttf") format("truetype"),
+        url("//db.onlinewebfonts.com/t/7235e5b8832b1ca035697b412f39b2d5.svg#FuturaNo2DW03-Regular") format("svg");
 }
 
 .welcome-text {
