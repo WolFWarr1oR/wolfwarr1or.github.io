@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Overwatch</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="shortcut icon" href="https://wolfwarr1or.github.io/main/img/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <video playsinline autoplay muted loop id="bgvid">
+        <source src="https://cdn.discordapp.com/attachments/303406782104207362/315832738223751168/tracer.mp4"
+            type="video/mp4">
+    </video>
+    
+    <div id="main">
+        <div id="left">
+            <div id="logo">
+                <img src="https://us.battle.net/forums/static/images/game-logos/game-logo-overwatch.png" alt="" />
+                <div id="version">1.0.0.0 - 00000</div>
+            </div>
+            <div id="menus">
+                <canvas id="menu-highlight" width="800" height="600"></canvas>
+                <div class="italic highlight" onmouseover="highlight(this, event)">
+                    highlights
+                </div>
+                <div class="italic" onmouseover="highlight(this, event)">
+                    play
+                </div>
+                <div class="italic" onmouseover="highlight(this, event)">
+                    training
+                </div>
+                <div class="italic" onmouseover="highlight(this, event)">
+                    hero gallery
+                </div>
+                <div class="italic" onmouseover="highlight(this, event)">
+                    loot box
+                </div>
+                <div class="normal">
+                    SOCIAL
+                </div>
+                <div class="normal">
+                    CAREER PROFILE
+                </div>
+                <div class="normal">
+                    OPTIONS
+                </div>
+                <div class="normal">
+                    EXIT GAME
+                </div>
+            </div>
+            <div id="chat">
+                <div id="chat-log">
+                    <div class="message">[Genji]: Мне нужно лечение!</div>
+                </div>
+                <div id="chat-input">
+                    <div id="channel">[General]:</div>
+                    <input id="text" type="text"></input>
+                </div>
+                <div id="enter">
+                    PRESS ENTER TO CHAT
+                </div>
+            </div>
+        </div>
+        <div id="player">
+            <div id="social">
+                <img src="https://cdn.discordapp.com/attachments/303406782104207362/315772662989193216/social.png" alt="" />
+            </div>
+            <div id="info">
+                <img src="https://d15f34w2p8l1cc.cloudfront.net/overwatch/49e89dae2bdb358f8306704114c80ea7f2a17c41285d05b7ac8a0f9d01fbbe95.png"
+                    alt="" />
+                <div id="name">WOLFWARRIOR</div>
+                <div id="rank">3138</div>
+            </div>
+        </div>
+        <div id="hero">
+            <div id="hero-name">TRACER</div>
+            <div id="hero-unlocks"><span>74</span>/76 UNLOCKS</div>
+        </div>
+    </div>
+</body>
+</html>
