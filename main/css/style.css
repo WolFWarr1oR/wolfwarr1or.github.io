@@ -7,13 +7,13 @@
 
 @font-face {
     font-family: BigNoodleTitlingCyr;
-    src: url('https://wolfwarr1or.github.io/index/font/10318.ttf');
+    src: url('https://wolfwarr1or.github.io/main/font/10318.ttf');
     font-style: italic;
 }
 
 @font-face {
     font-family: Futura;
-    src: url('https://wolfwarr1or.github.io/index/font/FuturaDemiC.tts');
+    src: url('https://wolfwarr1or.github.io/main/font/FuturaDemiC.tts');
 }
 
 .welcome-text {
