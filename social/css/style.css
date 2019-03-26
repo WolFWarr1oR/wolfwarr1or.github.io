@@ -3,7 +3,9 @@
     src: url('https://wolfwarr1or.github.io/main/font/7fonts.ru_big_noodle_titling_oblique.ttf');
 }
 
-.social-text {
+
+
+.section-header {
     font-family: BigNoodleTitlingCyr;
     letter-spacing: 15px;
     transform: uppercase;
@@ -40,7 +42,7 @@
 
 .overwatch-hero-card .info {
     color: #091737;
-    font-family: BigNoodleTooOblique;
+    font-family: BigNoodleTitlingCyr;
 }
 
 .overwatch-hero-card .info .name {
