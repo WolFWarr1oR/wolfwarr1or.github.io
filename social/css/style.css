@@ -1,0 +1,42 @@
+@font-face {
+    font-family: BigNoodleTitlingCyr;
+    src: url('https://wolfwarr1or.github.io/index/font/7fonts.ru_big_noodle_titling_oblique.ttf');
+}
+
+.social-text {
+    font-family: BigNoodleTitlingCyr;
+    letter-spacing: 15px;
+    transform: uppercase;
+    font-size: 120px;
+    stroke: 1px #333;
+    opacity: 0.8;
+    background: linear-gradient(45deg, f(#fff), (#555));
+    background-clip: text;
+    background-color: transparent;
+}
+
+.overwatch-hero-card {
+    width: 160px;
+    height: 360px;
+    margin: 5px;
+    display: inline-block;
+    background-image: radial-gradient(white 0%, #7c86a2 100%);
+    cursor: default;
+    transition: transform 0.15s ease-out;
+}
+
+html {
+    height: 100%;
+}
+
+
+
+
+
+body {
+    margin: 0;
+    height: 100%;
+    background-image: linear-gradient(to bottom right, #333 0%, #888 100%);
+    background-attachment: fixed;
+    /*background-image:linear-gradient(to bottom, #333 0%, #777 25%, #888 50%, #777 75%, #333 100%);*/
+}
