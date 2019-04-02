@@ -1,8 +1,12 @@
-.p {
-    font-family: 'Arial';
-    font-style: normal;
-    font-size: 100px;
-    background: red;
+@font-face {
+    font-family: 'https://wolfwarr1or.github.io/font/big-noodle-titling-oblique.ttf';
+    font-style: italic;
+}
+
+.more-text {
+    font-family: 'big-noodle-titling-oblique.ttf';
+    font-style: oblique;
+    font-size: 50px;
 }
 
 
