@@ -37,7 +37,8 @@
     font-size: 36px;
     width: 0%;
     padding: 0px;
-    color: black;
+    color: white;
+    text-shadow: 0px 0px 2px black;
     font-family: BigNoodleTitlingCyr;
     letter-spacing: 2px;
     text-transform: uppercase;
