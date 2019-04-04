@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'https://wolfwarr1or.github.io/font/big-noodle-titling-oblique.ttf';
-    font-style: italic;
+    font-family: overwatch-italic;
+    src: url(https://us.battle.net/forums/static/fonts/bignoodletoo/bignoodletoo.woff);
 }
 
 .more-text {
-    font-family: 'big-noodle-titling-oblique.ttf';
+    font-family: 'overwatch-italic';
     font-style: oblique;
     font-size: 50px;
 }
