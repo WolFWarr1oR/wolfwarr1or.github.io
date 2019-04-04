@@ -183,7 +183,7 @@ html, body, #main {
 }
 #info #rank {
   color: #fff;
-  background: #4A5B99;
+  background: rgb(107, 127, 201);
   padding: 0 6px;
   margin-left: 6px;
   margin-right: 57px;
