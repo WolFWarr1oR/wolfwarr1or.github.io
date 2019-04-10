@@ -20,6 +20,10 @@
     background-color: transparent;
 }
 
+.section-content {
+    position: absolute;
+}
+
 .overwatch-hero-card {
     width: 160px;
     height: 360px;
