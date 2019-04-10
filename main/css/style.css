@@ -172,12 +172,12 @@ html {
 body {
     margin: 0;
     height: 100%;
-    background: #ffffff; /* Old browsers */
-    background: -moz-linear-gradient(-45deg, #ffffff 0%, #000000 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(-45deg, #ffffff 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(135deg, #ffffff 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-    /*background-color: white;
+    /*background: #ffffff; /* Old browsers */
+    /*background: -moz-linear-gradient(-45deg, #ffffff 0%, #000000 100%); /* FF3.6-15 */
+    /*background: -webkit-linear-gradient(-45deg, #ffffff 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+    /*background: linear-gradient(135deg, #ffffff 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    background-color: white;
     /*background-image: linear-gradient(to bottom right, #ffffff 0%, rgb(49, 49, 49) 100%);
     background-attachment: fixed;
     /*background-image:linear-gradient(to bottom, #333 0%, #777 25%, #888 50%, #777 75%, #333 100%);*/
