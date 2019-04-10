@@ -1,6 +1,7 @@
 @font-face {
-    font-family: overwatch-italic;
+    font-family: 'overwatch-italic';
     src: url(https://us.battle.net/forums/static/fonts/bignoodletoo/bignoodletoo.woff);
+    font-style: italic;
 }
 
 .more-text {
