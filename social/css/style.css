@@ -4,6 +4,20 @@
     font-style: italic;
 }
 
+@font-face {
+    font-family: Futura;
+    src: url(https://us.battle.net/forums/static/fonts/f014015d/f014015d.woff);
+
+}
+
+
+* {
+    cursor: url(https://cdn.discordapp.com/attachments/303406782104207362/315839175406649345/Overwatch.cur), auto;
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    user-selectd: none;
+}
 
 
 .section-header {
@@ -20,7 +34,7 @@
     background-color: transparent;
 }
 
-.overwatch-hero-card {
+/*.overwatch-hero-card {
     width: 160px;
     height: 360px;
     margin: 5px;
@@ -34,6 +48,32 @@
 .overwatch-hero-card:hover {
     transform: scale(1.1);
     outline: 3px solid white;
+}*/
+
+.overwatch-hero-card {
+    display: inline-block;
+    position: relative;
+    width: 160px;
+    height: 350px;
+    margin: 5px;
+    border-color: #f6f6f6;
+    border-style: solid;
+    background-image: radial-gradient(ellipse, white 0%, #7c86a2 100%);
+    border-width: 3px 0;
+    background-color: #E2E1E7;
+    background-clip: padding-box;
+    overflow: hidden;
+    border-radius: 10px;
+    -webkit-transform: skew(25rad);
+    transform: skew(25rad);
+    text-align: center;
+}
+
+.overwatch-hero-card:hover {
+    transform: scale(1.1);
+    border-left-width: 3px;
+    outline: 3px white;
+    border-right-width: 3px;
 }
 
 .overwatch-hero-card .thumbnail {
@@ -94,8 +134,8 @@ html {
 body {
     margin: 0;
     height: 100%;
-    background-color: white;
-    /*background-image: linear-gradient(to bottom right, #333 0%, #888 100%);
+    /*background-color: white;*/
+    background-image: linear-gradient(to bottom right, #333 0%, #888 100%);
     background-attachment: fixed;
     /*background-image:linear-gradient(to bottom, #333 0%, #777 25%, #888 50%, #777 75%, #333 100%);*/
 }
