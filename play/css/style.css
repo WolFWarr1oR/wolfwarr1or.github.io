@@ -1,14 +1,14 @@
 @font-face {
   font-family: overwatch;
-  src: url(https://us.battle.net/forums/static/fonts/f014015d/f014015d.woff);
+  src: url('https://us.battle.net/forums/static/fonts/f014015d/f014015d.woff');
 }
 @font-face {
     font-family: 'overwatch-italic';
-    src: url(https://us.battle.net/forums/static/fonts/bignoodletoo/bignoodletoo.woff);
+    src: url('https://us.battle.net/forums/static/fonts/bignoodletoo/bignoodletoo.woff');
     font-style: italic;
 }
 * {
-  cursor: url(https://cdn.discordapp.com/attachments/303406782104207362/315839175406649345/Overwatch.cur), auto;
+  cursor: url('https://cdn.discordapp.com/attachments/303406782104207362/315839175406649345/Overwatch.cur'), auto;
   -moz-user-select: -moz-none;
   -ms-user-select: none;
   -webkit-user-select: none;
