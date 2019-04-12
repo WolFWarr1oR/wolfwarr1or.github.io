@@ -70,9 +70,12 @@
 }
 
 .overwatch-hero-card:hover {
-    transform: scale(1.1);
+    width: 160px;
+    height: 350px;
+    margin: -6px -1px;
     border-left-width: 3px;
-    outline: 3px white;
+    border-right-width: 3px;
+    outline: 10px white;
     border-right-width: 3px;
 }
 
