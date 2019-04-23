@@ -65,3 +65,25 @@ body {
     font-family: 'Futura';
     text-align: justify;
 }
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.box li {
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+
+.box li a {
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    transition: all ease-in-out;
+}
+
+.box li a:hover {
+    color: #b9b9b9;
+}
