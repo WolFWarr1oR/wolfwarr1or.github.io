@@ -49,21 +49,22 @@ body {
     height: 200px;
 }
 
-.box h1 {
+.box .title {
     font-family: 'Ethnocentric';
-    font-size: 40px;
+    font-size: 45px;
     font-weight: 100;
 }
 
-.box h5 {
-    font-size: 20px;
+.box .who {
+    font-size: 55px;
     font-weight: 100;
     font-family: 'BigNoodleTitlingCyr';
 }
 
-.box p {
+.box .description {
     font-family: 'Futura';
     text-align: justify;
+    font-size: 24px;
 }
 
 ul {
