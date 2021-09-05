@@ -1,0 +1,85 @@
+<div class="head">
+        <ul class="menu menu-main">
+            <li class="portfolio menu-item">
+                <a href="404.html" class="btn btn-semi-hollow btn-sm">
+                    <span>Portfolio</span>
+                </a>
+            </li>
+            <li class="blog menu-item">
+                <a href="" class="btn btn-semi-hollow btn-sm">
+                    <span>Blog</span>
+                </a>
+            </li>
+            <!-- /.menu-item -->
+            <li class="home menu-item">
+                <a class=' ' href="">
+                    <span></span> 
+                </a>
+            </li>
+            <!-- /.menu-item -->
+            <li class="projects menu-item">
+                <a href="https://github.com/WolFWarr1oR" class="btn btn-semi-hollow btn-sm">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li class="socials menu-item">
+                <a href="https://github.com/WolFWarr1oR" class="btn btn-semi-hollow btn-sm">
+                    <span>Socials</span>
+                </a>
+            </li>
+            <!-- /.menu-item -->
+            <!-- <li class="portfolio menu-item">
+                <a href="">
+                    <span></span>
+                </a>
+            </li> -->
+            <!-- /.menu-item -->
+        </ul>
+        <!-- /.menu menu-main -->
+        <ul class="menu menu-social" id="social">
+            <li>
+                <a href="https://github.com/WolFWarr1oR" class="social-icon-bg">
+                    <i class="fab fa-github"></i>
+                </a>
+                <!-- /.social-icon-bg -->
+            </li>
+            <li>
+                <a href="https://t.me/WolFWarr1oR" class="social-icon-bg">
+                    <i class="fab fa-telegram-plane"></i>
+                </a>
+                <!-- /.social-icon-bg -->
+            </li>
+            <li>
+                <a href="https://t.me/programmers_kanal" class="social-icon-bg">
+                    <i class="fab fa-wolf-pack-battalion"></i>
+                </a>
+                <!-- /.social-icon-bg -->
+            </li>
+        </ul>
+        <!-- /#social.menu menu-social -->
+    </div>
+    <section class="SectLogo Section">
+        <div class="SectLogo__background"></div>
+        <!-- /.SectLogo__background -->
+        </div>
+        <!-- /.SectLogo__content -->
+    </section>
+    <!-- /.SectLogo Section -->
+    <section class="Section SectionPrefs SectionPrefs1">
+        <h1 class="SectionPrefs1__title">Prefs</h1>
+        <!-- /.SectionPrefs1__title -->
+        <div class="Prefs1-prefsList">
+            <a href="https://code.visualstudio.com/" class="Prefs1-pref prefLink">
+                <span class="PrefImageWrapper">
+                    <span class="pref-image" style="background-image:url('https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg')"></span>
+                    <!-- /.pref-image -->
+                    <span class="pref-title">VS Code</span>
+                    <!-- /.pref-title -->
+                </span>
+                <!-- /.PrefImageWrapper -->
+            </a>
+            <!-- /.Prefs1-pref prefLink -->
+        </div>
+        <!-- /.Prefs1-prefsList -->
+    </section>
+    <!-- /.Section SectionPrefs SectionPrefs1 -->
