@@ -1,0 +1,16 @@
+export default {
+  about_me: 'About me',
+  blog: 'Blog',
+  waiting_for_ow2: 'Waiting for OW2',
+  learn_more: 'Learn More',
+  my_team: "WolFWarrioR's team",
+  team_description: '',
+  wolf_s_desc: '',
+  piiixel_s_desc: '',
+  frasy21_s_desc: '',
+  site_isnt_owned_by: 'This site is not owned by ',
+  overwatch_news: 'Overwatch News',
+  date_posted: 'Date Posted',
+  featured_news: 'Featured News',
+  view_all_news: 'View All',
+}
