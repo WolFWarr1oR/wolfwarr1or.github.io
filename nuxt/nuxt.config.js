@@ -1,10 +1,10 @@
 import i18n from './config/i18n'
 export default {
   // ssr: true,
-  // target: 'static',
-  // router: {
-  //   base: '/wolfwarr1or.github.io/'
-  // },
+  target: 'static',
+  router: {
+    base: '/wolfwarr1or.github.io/'
+  },
   // server: {
   //   port: 8800,
   //   host: '192.168.88.12',
