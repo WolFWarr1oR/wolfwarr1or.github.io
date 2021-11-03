@@ -1,10 +1,14 @@
 import i18n from './config/i18n'
 export default {
   // ssr: true,
-  server: {
-    port: 8800,
-    host: '192.168.88.13',
-  },
+  // target: 'static',
+  // router: {
+  //   base: '/wolfwarr1or.github.io/'
+  // },
+  // server: {
+  //   port: 8800,
+  //   host: '192.168.88.12',
+  // },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'WolFWarrioR',
@@ -110,8 +114,10 @@ export default {
     icon:false,
     manifest:{
       name: "WolFWarrioR",
-      lang: 'ru',
       useWebmanifestExtension: false,
+      description: '',
+      short_name: '',
+      display: 'standalone',
     },
     workbox:{
       dev:true,
