@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{322:function(e,n,w){"use strict";w.r(n),n.default={message:"Ласково просимо"}}}]);

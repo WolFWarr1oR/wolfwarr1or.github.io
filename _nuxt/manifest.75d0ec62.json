@@ -1,0 +1,9 @@
+{
+  "name": "WolFWarrioR",
+  "short_name": "nuxt",
+  "icons": [],
+  "start_url": "//?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "ru"
+}
