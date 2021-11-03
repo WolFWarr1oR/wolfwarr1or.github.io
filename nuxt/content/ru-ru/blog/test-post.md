@@ -6,7 +6,8 @@ tags:
   - test
 img: 2021102918181265328.jpg
 alt: test
-isFeatured: true
+isFeatured: false
+isArchived: true
 ---
 Эта молитва поможет путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!
 
