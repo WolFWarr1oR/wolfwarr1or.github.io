@@ -9,8 +9,9 @@
           <div class="article__date">
             {{ $t('date_posted') }}: {{ formatDate(post.createdAt) }}
           </div>
+		  <p style="text-align:center"><img :src="`/images/posts/${ post.img }`" :alt="post.alt" /></p>
           <nuxt-content class="article__content" :document="post"/>
-
+				
             </div>
           </div>
         </div>
@@ -50,6 +51,18 @@ export default {
  background:#4d6e80 url(/_nuxt/img/ea6ea46.jpg) no-repeat top center;
  background-size:100% auto
 }
+td {
+    border: solid 2px lightgrey;
+}
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}
+
 .news_wrap {
  display:flex;
  justify-content:center;
