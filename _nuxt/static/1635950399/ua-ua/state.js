@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F\u002F_nuxt\u002Fstatic\u002F1635950399",layout:"default",error:a,serverRendered:true,routePath:"\u002Fua-ua",config:{_app:{basePath:"\u002F\u002F",assetsPath:"\u002F\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"11687ae2"}},__i18n:{langs:{"ua-ua":{message:"Ласково просимо"}}}}}(null));
