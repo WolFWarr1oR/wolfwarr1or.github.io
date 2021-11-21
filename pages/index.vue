@@ -64,7 +64,7 @@
 
 <script>
 export default {
-  name: 'Main',
+
   components: {
     'HeroesSection': () => import('@/components/HeroesSection.vue'),
   },
@@ -77,10 +77,14 @@ export default {
       featuredposts
     }
   },
-  methods: {
-    formatDate(date) {
-      const options = { year: 'numeric', month: 'numeric', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
+  data() {
+    return {
+      title: this.$t('home')
+    }
+  },
+  head() {
+    return {
+      title: this.title
     }
   },
   computed: {
@@ -88,7 +92,13 @@ export default {
       return this.$i18n.locales
     }
   },
-}
-</script>
+  methods: {
+    formatDate(date) {
+      const options = { year: 'numeric', month: 'numeric', day: 'numeric' }
+      return new Date(date).toLocaleDateString('en', options)
+    }
+  },
+
+
 }
 </script>

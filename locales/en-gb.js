@@ -13,4 +13,5 @@ export default {
   date_posted: 'Date Posted',
   featured_news: 'Featured News',
   view_all_news: 'View All',
+  home: 'Home',
 }

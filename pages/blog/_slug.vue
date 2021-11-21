@@ -37,7 +37,88 @@ export default {
       const options = { year: 'numeric', month: 'numeric', day: 'numeric' }
       return new Date(date).toLocaleDateString('en', options)
     }
- }
+  },
+  data() {
+    return {
+      title: this.post.title
+    }
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+      {
+        hid: "description",
+        name: "description",
+        content: this.post.description,
+      },
+      {
+        hid: "og:title",
+        name: "og:title",
+        content: this.post.title,
+      },
+      {
+        hid: "og:description",
+        name: "og:description",
+        content: this.post.description,
+      },
+      {
+        hid: "og:type",
+        property: "og:type",
+        content: "article",
+      },
+      {
+        hid: "og:url",
+        property: "og:url",
+        content: `https://bobross.com/articles/${this.$route.params.slug}`,
+      },
+      {
+        hid: "twitter:url",
+        name: "twitter:url",
+        content: `https://bobross.com/articles/${this.$route.params.slug}`,
+      },
+      {
+        hid: "twitter:title",
+        name: "twitter:title",
+        content: this.post.title,
+      },
+      {
+        hid: "twitter:description",
+        name: "twitter:description",
+        content: this.post.description,
+      },
+      {
+        hid: "twitter:image",
+        name: "twitter:image",
+        content: this.post.image,
+      },
+      {
+        hid: "og:image",
+        property: "og:image",
+        content: this.post.image,
+      },
+      {
+        property: "article:published_time",
+        content: this.post.createdAt,
+      },
+      {
+        property: "article:modified_time",
+        content: this.post.updatedAt,
+      },
+      {
+        property: "article:tag",
+        content: this.post.tags ? this.post.tags.toString() : "",
+      },
+      { name: "twitter:label1", content: "Written by" },
+      { name: "twitter:data1", content: "Bob Ross" },
+      { name: "twitter:label2", content: "Filed under" },
+      {
+        name: "twitter:data2",
+        content: this.post.tags ? this.post.tags.toString() : "",
+      },
+    ],
+    }
+  },
 }
 </script>
 
@@ -59,6 +140,11 @@ export default {
  padding-top:66px;
  padding-bottom:210px
 }
+
+.news_wrap > * {
+  font-family: 'HYWenHei-85W', HYWenHei-85W, sans-serif;
+}
+
 .news_wrap .body {
  position:relative;
  width:900px;

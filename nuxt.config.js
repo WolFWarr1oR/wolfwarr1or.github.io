@@ -1,13 +1,13 @@
 import i18n from './config/i18n'
 export default {
-  // ssr: true,
+  // // ssr: true,
   target: 'static',
   router: {
-    base: '//'
+    base: '/wolfwarrior.design/'
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'WolFWarrioR',
+    titleTemplate: '%s | WolFWarrioR',
     htmlAttrs: {
       lang: 'en'
     },
@@ -30,7 +30,8 @@ export default {
     ],
     link: [
       // { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-      { rel: 'icon', type: 'image/gif', href: '/favicon.gif' }
+      { rel: 'icon', type: 'image/gif', href: '/favicon.gif' },
+      { rel: 'stylesheet', type: 'text/css', href: '/fonts/HYWenHei-HEW.css'}
     ],
     // script: [
     //   { src: '/snow.js' }
@@ -69,7 +70,7 @@ export default {
         lazy: true,
         langDir: 'locales/',
         vueI18nLoader: true,
-        // defaultLocale: 'en-gb',
+        defaultLocale: 'en-gb',
         locales: [
           {
             code: 'en-gb',

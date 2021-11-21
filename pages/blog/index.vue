@@ -4,7 +4,7 @@
     <div v-for="(post, index) in posts" :key="index">
       <p>{{ post.short }}</p>
       <img :src="`/images/posts/${post.img}`"/>
-      <nuxt-link :to="localePath(post.path)">LINK</nuxt-link>
+      <nuxt-link :to="localePath(post.path)">{{ post.title }}</nuxt-link>
     </div>
 
     <Footer/>
@@ -20,6 +20,16 @@ export default {
     return {
       posts,
       featuredposts
+    }
+  },
+  data() {
+    return {
+      title: this.$t('blog')
+    }
+  },
+  head() {
+    return {
+      title: this.title
     }
   },
 }

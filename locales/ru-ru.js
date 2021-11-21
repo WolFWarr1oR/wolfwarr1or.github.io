@@ -9,4 +9,5 @@ export default {
   date_posted: 'Опубликовано',
   featured_news: 'Рекомендуемые новости',
   view_all_news: 'Все',
+  home: 'Главная',
 }
