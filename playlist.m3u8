@@ -1,0 +1,1125 @@
+#EXTM3U max-conn="2" url-tvg="https://static.russkoetv.tv/epg.xml.gz" catchup-type="shift"
+#EXTINF:0 group-title="Общероссийские" tvg-id="pervyj"  ,First канал
+http://de.russkoe-iptv.com:88/s/bb7f8927/pervyj.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="pervyj-hd"  ,First HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/pervyj-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija1"  ,Russia 1
+http://de.russkoe-iptv.com:88/s/bb7f8927/rossija1.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija-hd"  ,Russia 1 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/rossija-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv"  ,NTV
+http://de.russkoe-iptv.com:88/s/bb7f8927/ntv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv-hd"  ,NTV HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/ntv-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv-mir"  ,NTV Мир
+http://de.russkoe-iptv.com:88/s/bb7f8927/ntv-mir.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="TNT"  ,ТНТ
+http://de.russkoe-iptv.com:88/s/bb7f8927/TNT.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tnt-hd"  ,ТНТ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/tnt-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tnt-4"  ,ТНТ4
+http://de.russkoe-iptv.com:88/s/bb7f8927/tnt-4.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tnt4-hd"  ,ТНТ4 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/tnt4-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="CTC"  ,СТС
+http://de.russkoe-iptv.com:88/s/bb7f8927/CTC.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ctc-hd"  ,СТС HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/ctc-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="sts-love"  ,СТС Love
+http://de.russkoe-iptv.com:88/s/bb7f8927/sts-love.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="domashnij"  ,Домашний
+http://de.russkoe-iptv.com:88/s/bb7f8927/domashnij.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="domashnij-hd"  ,Домашний HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/domashnij-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="perec"  ,Перец
+http://de.russkoe-iptv.com:88/s/bb7f8927/perec.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ren-tv"  ,REN ТВ
+http://de.russkoe-iptv.com:88/s/bb7f8927/ren-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ren-tv-hd"  ,REN ТВ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/ren-tv-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tv-3"  ,ТВ3
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv-3.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tv3-hd"  ,ТВ3 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv3-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="4e"  ,Че
+http://de.russkoe-iptv.com:88/s/bb7f8927/4e.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda"  ,3DE3DA
+http://de.russkoe-iptv.com:88/s/bb7f8927/zvezda.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda-hd"  ,3DE3DA HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/zvezda-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda-plus"  ,3DE3DA Плюс
+http://de.russkoe-iptv.com:88/s/bb7f8927/zvezda-plus.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda-plus-hd"  ,3DE3DA Плюс HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/zvezda-plus-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tvc"  ,ТВЦ
+http://de.russkoe-iptv.com:88/s/bb7f8927/tvc.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="5kanal"  ,5 канал
+http://de.russkoe-iptv.com:88/s/bb7f8927/5kanal.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija-k"  ,Russia Культура
+http://de.russkoe-iptv.com:88/s/bb7f8927/rossija-k.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="moskva-doverie"  ,Москва Доверие
+http://de.russkoe-iptv.com:88/s/bb7f8927/moskva-doverie.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="souz"  ,Союз
+http://de.russkoe-iptv.com:88/s/bb7f8927/souz.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="spas"  ,Спас
+http://de.russkoe-iptv.com:88/s/bb7f8927/spas.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="krasnaja-linija"  ,Красная линия
+http://de.russkoe-iptv.com:88/s/bb7f8927/krasnaja-linija.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="8-kanal"  ,8 канал
+http://de.russkoe-iptv.com:88/s/bb7f8927/8-kanal.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="9-kanal"  ,9 Канал
+http://de.russkoe-iptv.com:88/s/bb7f8927/9-kanal.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="otp"  ,ОТР
+http://de.russkoe-iptv.com:88/s/bb7f8927/otp.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir"  ,Мир
+http://de.russkoe-iptv.com:88/s/bb7f8927/mir.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir-hd"  ,Мир HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/mir-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir-24"  ,Мир 24
+http://de.russkoe-iptv.com:88/s/bb7f8927/mir-24.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir-24-hd"  ,Мир 24 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/mir-24-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="sarafan"  ,Сарафан
+http://de.russkoe-iptv.com:88/s/bb7f8927/sarafan.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="gagsnetwork"  ,Gagsnetwork
+http://de.russkoe-iptv.com:88/s/bb7f8927/gagsnetwork.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="kvn-tv"  ,КВН ТВ
+http://de.russkoe-iptv.com:88/s/bb7f8927/kvn-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="piatnica"  ,Пятница
+http://de.russkoe-iptv.com:88/s/bb7f8927/piatnica.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="piatnica-hd"  ,Пятница HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/piatnica-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="super"  ,Суббота
+http://de.russkoe-iptv.com:88/s/bb7f8927/super.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="super-hd"  ,Суббота HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/super-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="podmoskovje"  ,Телеканал 360
+http://de.russkoe-iptv.com:88/s/bb7f8927/podmoskovje.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="telekanal-360-hd"  ,Телеканал 360 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/telekanal-360-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="yu-tv"  ,Ю ТВ
+http://de.russkoe-iptv.com:88/s/bb7f8927/yu-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="vremya"  ,Время
+http://de.russkoe-iptv.com:88/s/bb7f8927/vremya.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rt-doc"  ,RT Док
+http://de.russkoe-iptv.com:88/s/bb7f8927/rt-doc.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="russia-today-doc-hd"  ,RT Док HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/russia-today-doc-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rtvi"  ,RTVi
+http://de.russkoe-iptv.com:88/s/bb7f8927/rtvi.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="dozhd"  ,Дождь
+http://de.russkoe-iptv.com:88/s/bb7f8927/dozhd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="dozhd-hd"  ,Дождь HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/dozhd-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="nastoyaschee-vremya-hd"  ,Настоящее время HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nastoyaschee-vremya-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rossija24"  ,rossija24 24
+http://de.russkoe-iptv.com:88/s/bb7f8927/rossija24.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="evronews"  ,EuroNews
+http://de.russkoe-iptv.com:88/s/bb7f8927/evronews.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="izvestija"  ,IZ
+http://de.russkoe-iptv.com:88/s/bb7f8927/izvestija.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="izvestija-hd"  ,IZ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/izvestija-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="moskva-24"  ,Москва 24
+http://de.russkoe-iptv.com:88/s/bb7f8927/moskva-24.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rbk"  ,RBK
+http://de.russkoe-iptv.com:88/s/bb7f8927/rbk.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rbk-hd"  ,RBK HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/rbk-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rt-english"  ,RT
+http://de.russkoe-iptv.com:88/s/bb7f8927/rt-english.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="russia-today-hd"  ,RT HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/russia-today-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="sky-news-uk"  ,Sky News
+http://de.russkoe-iptv.com:88/s/bb7f8927/sky-news-uk.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="bbc-world-news"  ,BBC World
+http://de.russkoe-iptv.com:88/s/bb7f8927/bbc-world-news.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="bbc-world-news-hd"  ,BBC World HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/bbc-world-news-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="cnn"  ,CNN
+http://de.russkoe-iptv.com:88/s/bb7f8927/cnn.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="cnn-hd"  ,CNN HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/cnn-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="al-jazeera-hd"  ,Al Jazeera HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/al-jazeera-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopremiera-hd"  ,Кинопремьера HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinopremiera-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-premium-hd"  ,Премиальное HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kino-premium-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ostrosujetnoe-hd"  ,Остросюжетное HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/ostrosujetnoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="hit-hd"  ,Хит HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/hit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinohit"  ,Кинохит
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinohit.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinohit-hd"  ,Кинохит HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinohit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinomix"  ,Киномикс
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinomix.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinomix-hd"  ,Киномикс HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinomix-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosemja"  ,Киносемья
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinosemja.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosemja-hd"  ,Киносемья HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinosemja-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosvidanije"  ,Киносвидание
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinosvidanije.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosvidanije-hd"  ,Киносвидание HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinosvidanije-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mnogo-tv"  ,Киносерия
+http://de.russkoe-iptv.com:88/s/bb7f8927/mnogo-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mnogo-tv-hd"  ,Киносерия HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/mnogo-tv-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz"  ,Кинопоказ
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinopokaz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd"  ,Кинопоказ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinopokaz-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="blokbaster-hd"  ,Блокбастер HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/blokbaster-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nash-kinopokaz-hd"  ,Наш Кинопоказ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nash-kinopokaz-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nash-kinoroman-hd"  ,Душевное HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nash-kinoroman-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nash-detektiv-hd"  ,Наше HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nash-detektiv-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-lubimoe-hd"  ,Любимое HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nashe-lubimoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-premium-hd"  ,VIP Premiere
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv1000-premium-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-megahit-hd"  ,VIP Megahit
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv1000-megahit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-comedy-hd"  ,VIP Comedy
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv1000-comedy-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="vip-serial-hd"  ,VIP Serial
+http://de.russkoe-iptv.com:88/s/bb7f8927/vip-serial-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000"  ,TV1000
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv1000.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-hd"  ,TV1000 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv1000-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-action"  ,TV1000 Action
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv1000-action.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-action-hd"  ,TV1000 Action HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv1000-action-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-ru-kino"  ,TV1000 Русское Кино
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv1000-ru-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-russkoje-hd"  ,TV1000 Русское Кино HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv1000-russkoje-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-world-kino"  ,TV1000 World Kino
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv1000-world-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mgm-hd"  ,Hollywood HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/mgm-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="cinema"  ,Cinema
+http://de.russkoe-iptv.com:88/s/bb7f8927/cinema.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="cinema-hd"  ,Cinema HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/cinema-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-tv"  ,Кино ТВ
+http://de.russkoe-iptv.com:88/s/bb7f8927/kino-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-tv-hd"  ,Кино ТВ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kino-tv-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinojam1-hd"  ,Kinojam 1 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinojam1-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinojam2-hd"  ,Kinojam 2 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinojam2-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="start-world"  ,Start World
+http://de.russkoe-iptv.com:88/s/bb7f8927/start-world.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="start-air"  ,Start Air
+http://de.russkoe-iptv.com:88/s/bb7f8927/start-air.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="plan-b"  ,Plan B
+http://de.russkoe-iptv.com:88/s/bb7f8927/plan-b.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="plan-b-hd"  ,Plan B HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/plan-b-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="evrokino"  ,Еврокино
+http://de.russkoe-iptv.com:88/s/bb7f8927/evrokino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="evrokino-hd"  ,Еврокино HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/evrokino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="flix-snip"  ,Flix Snip
+http://de.russkoe-iptv.com:88/s/bb7f8927/flix-snip.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="egoist-tv"  ,SHOT TV
+http://de.russkoe-iptv.com:88/s/bb7f8927/egoist-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino"  ,Мужское кино
+http://de.russkoe-iptv.com:88/s/bb7f8927/muzhskoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino-hd"  ,Мужское кино HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/muzhskoe-kino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-muzshkoe-hd"  ,Наше Мужское HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nashe-muzshkoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="trash-hd"  ,Trash HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/trash-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="strashnoe-hd"  ,Страшное HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/strashnoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd1"  ,Шокирующее HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinopokaz-hd1.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinouzhas-hd"  ,Киноужас HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinouzhas-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="hct"  ,НСТ
+http://de.russkoe-iptv.com:88/s/bb7f8927/hct.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkaja-comedija"  ,Комедия
+http://de.russkoe-iptv.com:88/s/bb7f8927/russkaja-comedija.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinokomedia"  ,Кинокомедия
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinokomedia.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinokomedia-hd"  ,Кинокомедия HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinokomedia-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd2"  ,Комедийное HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kinopokaz-hd2.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="comedy-hd"  ,Камеди HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/comedy-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-premium"  ,Amedia Premium
+http://de.russkoe-iptv.com:88/s/bb7f8927/amedia-premium.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-premium-hd"  ,AMEDIA Premium HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/amedia-premium-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-hit"  ,Amedia Hit
+http://de.russkoe-iptv.com:88/s/bb7f8927/amedia-hit.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-hit-hd"  ,AMEDIA HIT HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/amedia-hit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-1"  ,A1
+http://de.russkoe-iptv.com:88/s/bb7f8927/amedia-1.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia1-hd"  ,A1 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/amedia1-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-2"  ,A2
+http://de.russkoe-iptv.com:88/s/bb7f8927/amedia-2.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-2-hd"  ,A2 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/amedia-2-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox"  ,FOX
+http://de.russkoe-iptv.com:88/s/bb7f8927/fox.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox-hd"  ,FOX HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/fox-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox-life"  ,Fox Life
+http://de.russkoe-iptv.com:88/s/bb7f8927/fox-life.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox-life-hd"  ,FOX Life HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/fox-life-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="paramount-channel"  ,Paramount Channel
+http://de.russkoe-iptv.com:88/s/bb7f8927/paramount-channel.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="paramount-channel-hd"  ,Paramount Channel HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/paramount-channel-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="paramount-comedy"  ,Paramount Comedy
+http://de.russkoe-iptv.com:88/s/bb7f8927/paramount-comedy.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="paramount-comedy-hd"  ,Paramount Comedy HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/paramount-comedy-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="set"  ,Red
+http://de.russkoe-iptv.com:88/s/bb7f8927/set.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="set-hd"  ,Red HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/set-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="sony-sci-fi"  ,Sci-Fi
+http://de.russkoe-iptv.com:88/s/bb7f8927/sony-sci-fi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="sony-turbo"  ,Black
+http://de.russkoe-iptv.com:88/s/bb7f8927/sony-turbo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv-xxi"  ,TV XXI
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv-xxi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mosfilm"  ,Мосфильм
+http://de.russkoe-iptv.com:88/s/bb7f8927/mosfilm.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mosfilm-hd"  ,Мосфильм HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/mosfilm-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="lubimoe-kino"  ,Любимое Кино
+http://de.russkoe-iptv.com:88/s/bb7f8927/lubimoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="rodnoje_kino"  ,Родное кино
+http://de.russkoe-iptv.com:88/s/bb7f8927/rodnoje_kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="pobeda"  ,Победа
+http://de.russkoe-iptv.com:88/s/bb7f8927/pobeda.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="pobeda-hd"  ,Победа HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/pobeda-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="den-pobedy-hd"  ,День Победы HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/den-pobedy-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-novoe-kino"  ,Наше новое кино
+http://de.russkoe-iptv.com:88/s/bb7f8927/nashe-novoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-novoe-kino-hd"  ,Наше новое кино HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nashe-novoe-kino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-bestseller"  ,Русский Бестселлер
+http://de.russkoe-iptv.com:88/s/bb7f8927/russkij-bestseller.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="dom-kino"  ,Дом Кино
+http://de.russkoe-iptv.com:88/s/bb7f8927/dom-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="dom-kino-premium-hd"  ,Дом Кино Премиум HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/dom-kino-premium-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-roman"  ,Русский Роман
+http://de.russkoe-iptv.com:88/s/bb7f8927/russkij-roman.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-roman-hd"  ,Русский Роман HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/russkij-roman-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-detektiv"  ,Русский Детектив
+http://de.russkoe-iptv.com:88/s/bb7f8927/russkij-detektiv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-iluzion"  ,Русский Иллюзион
+http://de.russkoe-iptv.com:88/s/bb7f8927/russkij-iluzion.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-iluzion-hd"  ,Русский Иллюзион HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/russkij-iluzion-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="iluzion-plus"  ,Иллюзион +
+http://de.russkoe-iptv.com:88/s/bb7f8927/iluzion-plus.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="iluzion-plus-hd"  ,Иллюзион + HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/iluzion-plus-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="feniks-plus-kino"  ,Феникс+Кино
+http://de.russkoe-iptv.com:88/s/bb7f8927/feniks-plus-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mir-seriala"  ,Мир Сериала
+http://de.russkoe-iptv.com:88/s/bb7f8927/mir-seriala.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="romantichnoe-hd"  ,Романтичное HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/romantichnoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="pro-lubov-hd"  ,Про Любовь HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/pro-lubov-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ntv-hit"  ,NTV Хит
+http://de.russkoe-iptv.com:88/s/bb7f8927/ntv-hit.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ntv-serial"  ,NTV Сериал
+http://de.russkoe-iptv.com:88/s/bb7f8927/ntv-serial.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nostalgia"  ,Ностальгия
+http://de.russkoe-iptv.com:88/s/bb7f8927/nostalgia.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="retro"  ,Ретро ТВ
+http://de.russkoe-iptv.com:88/s/bb7f8927/retro.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="dorama-hd"  ,Дорама HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/dorama-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="bollywood"  ,Bollywood HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/bollywood.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="indija-tv"  ,Индийское Кино
+http://de.russkoe-iptv.com:88/s/bb7f8927/indija-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="zee-tv"  ,Zee TV
+http://de.russkoe-iptv.com:88/s/bb7f8927/zee-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="nash-futbol"  ,Матч Премьер
+http://de.russkoe-iptv.com:88/s/bb7f8927/nash-futbol.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="nash-futbol-hd"  ,Матч Премьер HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nash-futbol-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol"  ,Футбол
+http://de.russkoe-iptv.com:88/s/bb7f8927/futbol.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol-hd"  ,Футбол HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/futbol-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-1"  ,МАТЧ! Футбол 1
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-futbol-1.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol1-hd"  ,МАТЧ! Футбол 1 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-futbol1-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-2"  ,МАТЧ! Футбол 2
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-futbol-2.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol2-hd"  ,МАТЧ! Футбол 2 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-futbol2-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-3"  ,МАТЧ! Футбол 3
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-futbol-3.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol3-hd"  ,МАТЧ! Футбол 3 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-futbol3-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match"  ,Матч ТВ
+http://de.russkoe-iptv.com:88/s/bb7f8927/match.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-tv-hd"  ,Матч ТВ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-tv-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-igra"  ,Матч! Игра
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-igra.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-igra-hd"  ,Матч! Игра HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-igra-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-arena"  ,Матч! АRENа
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-arena.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-arena-hd"  ,Матч! АRENа HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-arena-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-nash-sport"  ,Матч! Страна
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-nash-sport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-strana-hd"  ,Матч! Страна HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-strana-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-planeta"  ,Матч! Планета
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-planeta.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="start-hd"  ,Старт HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/start-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="khl-tv"  ,KHL
+http://de.russkoe-iptv.com:88/s/bb7f8927/khl-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="khl-tv-hd"  ,KHL Prime
+http://de.russkoe-iptv.com:88/s/bb7f8927/khl-tv-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="hokkejnyj-hd"  ,Хоккейный HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/hokkejnyj-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbolnyj-hd"  ,Футбольный HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/futbolnyj-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sportivnyj-hd"  ,Спортивный HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/sportivnyj-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="mir-basketbola"  ,Мир Баскетбола
+http://de.russkoe-iptv.com:88/s/bb7f8927/mir-basketbola.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sport1-baltic"  ,Sport1 Baltic
+http://de.russkoe-iptv.com:88/s/bb7f8927/sport1-baltic.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sport2-baltic"  ,Sport2 Baltic
+http://de.russkoe-iptv.com:88/s/bb7f8927/sport2-baltic.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="viasat-sport"  ,Viasat Sport
+http://de.russkoe-iptv.com:88/s/bb7f8927/viasat-sport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="viasat-sport-hd"  ,Viasat Sport HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/viasat-sport-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="evrosport"  ,Eurosport 1
+http://de.russkoe-iptv.com:88/s/bb7f8927/evrosport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="eurosport-hd"  ,Eurosport 1 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/eurosport-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="evrosport-2"  ,Eurosport 2
+http://de.russkoe-iptv.com:88/s/bb7f8927/evrosport-2.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="eurosport2-hd"  ,Eurosport 2 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/eurosport2-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="eurosport-gold-hd"  ,Eurosport Gold HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/eurosport-gold-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-eurasia"  ,Setanta Sports 1 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/setanta-eurasia.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-eurasia-plus"  ,Setanta Sports 2 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/setanta-eurasia-plus.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-sport-hd-ua"  ,Setanta Sports Ukraine HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/setanta-sport-hd-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-sport-plus-ua-hd"  ,Setanta Sports + Ukraine HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/setanta-sport-plus-ua-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="qsport-hd"  ,QSport HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/qsport-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol1-ua"  ,Футбол 1
+http://de.russkoe-iptv.com:88/s/bb7f8927/futbol1-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol2-ua"  ,Футбол 2
+http://de.russkoe-iptv.com:88/s/bb7f8927/futbol2-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sport1-ua"  ,Спорт 1
+http://de.russkoe-iptv.com:88/s/bb7f8927/sport1-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sport2-ua"  ,Спорт 2
+http://de.russkoe-iptv.com:88/s/bb7f8927/sport2-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="xsport"  ,XSport
+http://de.russkoe-iptv.com:88/s/bb7f8927/xsport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="xsport-ua-hd"  ,XSport HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/xsport-ua-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="xsport-plus-ua-hd"  ,XSPORT Plus HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/xsport-plus-ua-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="super-tennis-hd"  ,Super Tennis HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/super-tennis-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="m1-global-tv"  ,M-1 Global
+http://de.russkoe-iptv.com:88/s/bb7f8927/m1-global-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="m1-global-hd"  ,M-1 Global HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/m1-global-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="ufc-hd"  ,UDAR HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/ufc-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-boec"  ,МАТЧ! Боец
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-boec.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-boec-hd"  ,Матч! Боец HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-boec-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="boks-tv"  ,Бокс ТВ
+http://de.russkoe-iptv.com:88/s/bb7f8927/boks-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="tochka-otryva"  ,Точка Отрыва
+http://de.russkoe-iptv.com:88/s/bb7f8927/tochka-otryva.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="russkij-extrim-hd"  ,Русский Экстрим HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/russkij-extrim-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="extreme-sports"  ,Extreme Sports
+http://de.russkoe-iptv.com:88/s/bb7f8927/extreme-sports.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="konnyj-mir-hd"  ,Конный Мир HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/konnyj-mir-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="avto-plus"  ,Авто Плюс
+http://de.russkoe-iptv.com:88/s/bb7f8927/avto-plus.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="auto-plus-hd"  ,Авто Плюс HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/auto-plus-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="avto-24"  ,Авто 24
+http://de.russkoe-iptv.com:88/s/bb7f8927/avto-24.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="avto-24-hd"  ,Авто 24 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/avto-24-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="drive"  ,Драйв
+http://de.russkoe-iptv.com:88/s/bb7f8927/drive.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="pervyj-avto-ua"  ,First Автомобильный
+http://de.russkoe-iptv.com:88/s/bb7f8927/pervyj-avto-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="pervyj-avto-hd-ua"  ,First Автомобильный HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/pervyj-avto-hd-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="motorsport-hd"  ,Моторспорт ТВ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/motorsport-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-mir"  ,Детский мир
+http://de.russkoe-iptv.com:88/s/bb7f8927/detskij-mir.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="karusel"  ,Карусель
+http://de.russkoe-iptv.com:88/s/bb7f8927/karusel.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="gosti-skazka"  ,В гостях у сказки
+http://de.russkoe-iptv.com:88/s/bb7f8927/gosti-skazka.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="mult"  ,Мульт
+http://de.russkoe-iptv.com:88/s/bb7f8927/mult.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="tlum-hd"  ,Мульт HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/tlum-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="multimania"  ,Мультиландия
+http://de.russkoe-iptv.com:88/s/bb7f8927/multimania.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="strana"  ,Мультимузыка
+http://de.russkoe-iptv.com:88/s/bb7f8927/strana.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ctc-kids"  ,СТС Kids
+http://de.russkoe-iptv.com:88/s/bb7f8927/ctc-kids.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ctc-kids-hd"  ,СТС Kids HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/ctc-kids-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ginger-hd"  ,Капитан Фантастика HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/ginger-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ryzhij"  ,Рыжий
+http://de.russkoe-iptv.com:88/s/bb7f8927/ryzhij.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detksij"  ,Уникум
+http://de.russkoe-iptv.com:88/s/bb7f8927/detksij.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-hd"  ,Уникум HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/detskij-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="kanal-o"  ,О!
+http://de.russkoe-iptv.com:88/s/bb7f8927/kanal-o.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="disney"  ,Disney Channel
+http://de.russkoe-iptv.com:88/s/bb7f8927/disney.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickelodeon"  ,Nickelodeon
+http://de.russkoe-iptv.com:88/s/bb7f8927/nickelodeon.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickelodeon-hd"  ,Nickelodeon HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nickelodeon-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickelodeon-us"  ,Nickelodeon Eng
+http://de.russkoe-iptv.com:88/s/bb7f8927/nickelodeon-us.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="cartoon-network"  ,Cartoon Network
+http://de.russkoe-iptv.com:88/s/bb7f8927/cartoon-network.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="smailik-tv-hd"  ,Смайлик ТВ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/smailik-tv-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ani"  ,Ani
+http://de.russkoe-iptv.com:88/s/bb7f8927/ani.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickjr"  ,Nick Jr
+http://de.russkoe-iptv.com:88/s/bb7f8927/nickjr.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickjr-en"  ,NickJr Eng
+http://de.russkoe-iptv.com:88/s/bb7f8927/nickjr-en.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="tiji"  ,TiJi
+http://de.russkoe-iptv.com:88/s/bb7f8927/tiji.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="jimjam"  ,JimJam
+http://de.russkoe-iptv.com:88/s/bb7f8927/jimjam.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="gulli"  ,Gulli Girl
+http://de.russkoe-iptv.com:88/s/bb7f8927/gulli.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="boomerang"  ,Boomerang
+http://de.russkoe-iptv.com:88/s/bb7f8927/boomerang.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="2x2"  ,2x2
+http://de.russkoe-iptv.com:88/s/bb7f8927/2x2.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="fan"  ,FAN
+http://de.russkoe-iptv.com:88/s/bb7f8927/fan.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="fan-hd"  ,FAN HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/fan-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nikki-junior-hd"  ,Niki Junior HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nikki-junior-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nikki-kids-hd"  ,Niki Kids HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nikki-kids-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="plus-plus2"  ,ПлюсПлюс
+http://de.russkoe-iptv.com:88/s/bb7f8927/plus-plus2.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="plus-plus-ua-hd"  ,ПлюсПлюс HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/plus-plus-ua-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="pixel-ua"  ,Піксель
+http://de.russkoe-iptv.com:88/s/bb7f8927/pixel-ua.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="pixel-ua-hd"  ,Піксель HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/pixel-ua-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="malyatko-tv-ua"  ,Малятко TV
+http://de.russkoe-iptv.com:88/s/bb7f8927/malyatko-tv-ua.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="national-geographic"  ,National Geographic
+http://de.russkoe-iptv.com:88/s/bb7f8927/national-geographic.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-hd"  ,National Geographic HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nat-geo-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery"  ,Discovery Channel
+http://de.russkoe-iptv.com:88/s/bb7f8927/discovery.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery-hd"  ,Discovery Channel HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/discovery-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery-science"  ,Discovery Science
+http://de.russkoe-iptv.com:88/s/bb7f8927/discovery-science.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery-science-hd"  ,Discovery Science HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/discovery-science-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dtx"  ,DTX
+http://de.russkoe-iptv.com:88/s/bb7f8927/dtx.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dtx-hd"  ,DTX HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/dtx-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="id-xtra"  ,Investigation Discovery
+http://de.russkoe-iptv.com:88/s/bb7f8927/id-xtra.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="id-xtra-hd"  ,Investigation Discovery HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/id-xtra-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="tlc"  ,TLC
+http://de.russkoe-iptv.com:88/s/bb7f8927/tlc.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="cbs-reality"  ,CBS Reality
+http://de.russkoe-iptv.com:88/s/bb7f8927/cbs-reality.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="animal-planet"  ,Animal planet
+http://de.russkoe-iptv.com:88/s/bb7f8927/animal-planet.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="animal-planet-hd"  ,Animal Planet HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/animal-planet-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild"  ,Nat Geo Wild
+http://de.russkoe-iptv.com:88/s/bb7f8927/nat-geo-wild.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild-hd"  ,Nat Geo Wild HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nat-geo-wild-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="animal-family-hd"  ,В мире животных HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/animal-family-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature"  ,Viasat Nature
+http://de.russkoe-iptv.com:88/s/bb7f8927/viasat-nature.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature-hd"  ,Viasat Nature HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/viasat-nature-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history-hd-test"  ,Viasat Nature/History HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/viasat-history-hd-test.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-explorer"  ,Viasat Explore
+http://de.russkoe-iptv.com:88/s/bb7f8927/viasat-explorer.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-explore-hd"  ,Viasat Explore HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/viasat-explore-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta"  ,Моя планета
+http://de.russkoe-iptv.com:88/s/bb7f8927/moya-planeta.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="planeta-hd"  ,Моя планета HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/planeta-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta"  ,Живая Планета
+http://de.russkoe-iptv.com:88/s/bb7f8927/zhivaya-planeta.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivaja-priroda-hd"  ,Живая природа HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/zhivaja-priroda-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-channel"  ,Travel Channel
+http://de.russkoe-iptv.com:88/s/bb7f8927/travel-channel.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-channel-hd"  ,Travel Channel HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/travel-channel-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure"  ,Travel+Adventure
+http://de.russkoe-iptv.com:88/s/bb7f8927/travel-adventure.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure-hd"  ,Travel+Adventure HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/travel-adventure-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="teletravel-hd"  ,Приключения HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/teletravel-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="teleputeshestvija"  ,Телепутешествия
+http://de.russkoe-iptv.com:88/s/bb7f8927/teleputeshestvija.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="glazami-turista-hd"  ,Глазами Туриста HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/glazami-turista-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nasha-tema"  ,Наша Тема
+http://de.russkoe-iptv.com:88/s/bb7f8927/nasha-tema.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="poehali-hd"  ,Поехали HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/poehali-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="big-asia-hd"  ,Большая Азия HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/big-asia-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rtg-tv"  ,RTG
+http://de.russkoe-iptv.com:88/s/bb7f8927/rtg-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rtg-hd"  ,RTG HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/rtg-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="hd-life"  ,HDL
+http://de.russkoe-iptv.com:88/s/bb7f8927/hd-life.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ocean-tv"  ,Ocean-TV
+http://de.russkoe-iptv.com:88/s/bb7f8927/ocean-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="morskoj"  ,Моя Стихия
+http://de.russkoe-iptv.com:88/s/bb7f8927/morskoj.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zoopark"  ,Зоопарк
+http://de.russkoe-iptv.com:88/s/bb7f8927/zoopark.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ohotnik-rybolov"  ,Рыболов
+http://de.russkoe-iptv.com:88/s/bb7f8927/ohotnik-rybolov.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ohotnik-rybolov-hd"  ,Охотник и рыболов HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/ohotnik-rybolov-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dikaya-ohota-hd"  ,Дикая Охота HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/dikaya-ohota-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dikaya-rybalka-hd"  ,Дикая Рыбалка HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/dikaya-rybalka-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="oxota-rybalka"  ,Охота и рыбалка
+http://de.russkoe-iptv.com:88/s/bb7f8927/oxota-rybalka.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dialogi-rybalka"  ,Диалоги о Рыбалке
+http://de.russkoe-iptv.com:88/s/bb7f8927/dialogi-rybalka.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rybalka-hd-ua"  ,Рыбалка HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/rybalka-hd-ua.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="trofey-hd"  ,Трофей HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/trofey-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="oruzhie"  ,Оружие
+http://de.russkoe-iptv.com:88/s/bb7f8927/oruzhie.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="arsenal-hd"  ,Арсенал HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/arsenal-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="muzhskoj"  ,Мужской
+http://de.russkoe-iptv.com:88/s/bb7f8927/muzhskoj.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="t24"  ,Техно 24
+http://de.russkoe-iptv.com:88/s/bb7f8927/t24.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nauka-20"  ,Наука
+http://de.russkoe-iptv.com:88/s/bb7f8927/nauka-20.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nauka-hd"  ,Наука HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/nauka-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="galaxy-hd"  ,Galaxy HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/galaxy-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eureka-hd"  ,First космический HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/eureka-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="da-vinci-learning"  ,Da Vinci
+http://de.russkoe-iptv.com:88/s/bb7f8927/da-vinci-learning.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="history"  ,History
+http://de.russkoe-iptv.com:88/s/bb7f8927/history.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="history-hd"  ,History HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/history-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="h2-hd"  ,History 2 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/h2-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history"  ,Viasat History
+http://de.russkoe-iptv.com:88/s/bb7f8927/viasat-history.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history-hd"  ,Viasat History HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/viasat-history-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="istorija"  ,История
+http://de.russkoe-iptv.com:88/s/bb7f8927/istorija.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="365-dnej"  ,365 Дней
+http://de.russkoe-iptv.com:88/s/bb7f8927/365-dnej.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="sovershenno-sekretno"  ,Top Secret
+http://de.russkoe-iptv.com:88/s/bb7f8927/sovershenno-sekretno.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kto-est-kto"  ,Кто есть кто
+http://de.russkoe-iptv.com:88/s/bb7f8927/kto-est-kto.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="teatr-tv"  ,Театр
+http://de.russkoe-iptv.com:88/s/bb7f8927/teatr-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="psihologija-21"  ,Психология
+http://de.russkoe-iptv.com:88/s/bb7f8927/psihologija-21.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zdorovoe-tv"  ,Доктор
+http://de.russkoe-iptv.com:88/s/bb7f8927/zdorovoe-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="voprosy-otvety"  ,Вопросы и ответы
+http://de.russkoe-iptv.com:88/s/bb7f8927/voprosy-otvety.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivi"  ,Живи
+http://de.russkoe-iptv.com:88/s/bb7f8927/zhivi.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivi-activno-hd"  ,Живи Активно HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/zhivi-activno-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivi-hd"  ,Живи HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/zhivi-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="mama"  ,Мама
+http://de.russkoe-iptv.com:88/s/bb7f8927/mama.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="usadba"  ,Усадьба
+http://de.russkoe-iptv.com:88/s/bb7f8927/usadba.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="domashnije-zhivotnye"  ,Домашние животные
+http://de.russkoe-iptv.com:88/s/bb7f8927/domashnije-zhivotnye.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zagorodnyy-int-hd"  ,Загородный int HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/zagorodnyy-int-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="bober"  ,Бобер
+http://de.russkoe-iptv.com:88/s/bb7f8927/bober.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="tnomer"  ,Тномер
+http://de.russkoe-iptv.com:88/s/bb7f8927/tnomer.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ntv-style"  ,NTV Стиль
+http://de.russkoe-iptv.com:88/s/bb7f8927/ntv-style.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kanal-e-hd"  ,E HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kanal-e-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="english-club"  ,English Club TV
+http://de.russkoe-iptv.com:88/s/bb7f8927/english-club.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="world-fashion"  ,World Fashion
+http://de.russkoe-iptv.com:88/s/bb7f8927/world-fashion.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="fashion-hd"  ,Fashion and LifeStyle HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/fashion-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="luxury-world-hd"  ,Luxury World HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/luxury-world-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eda"  ,Еда
+http://de.russkoe-iptv.com:88/s/bb7f8927/eda.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eda-hd"  ,Еда Премиум
+http://de.russkoe-iptv.com:88/s/bb7f8927/eda-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="food-network"  ,Food Network
+http://de.russkoe-iptv.com:88/s/bb7f8927/food-network.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kuxnya-tv"  ,Кухня ТВ
+http://de.russkoe-iptv.com:88/s/bb7f8927/kuxnya-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="telekafe"  ,Телекафе
+http://de.russkoe-iptv.com:88/s/bb7f8927/telekafe.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="1hd"  ,1HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/1hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-russia"  ,MTV Russia
+http://de.russkoe-iptv.com:88/s/bb7f8927/mtv-russia.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="muz-tv"  ,МУЗ
+http://de.russkoe-iptv.com:88/s/bb7f8927/muz-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="muzyka-pervogo"  ,Музыка Первого
+http://de.russkoe-iptv.com:88/s/bb7f8927/muzyka-pervogo.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="evropa-plus-tv"  ,Europa Plus TV
+http://de.russkoe-iptv.com:88/s/bb7f8927/evropa-plus-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="music-box-russian"  ,Russian MusicBox
+http://de.russkoe-iptv.com:88/s/bb7f8927/music-box-russian.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="russian-musicbox-hd"  ,Russian MusicBox HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/russian-musicbox-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="musicbox-ua-hd"  ,MusicBox UA HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/musicbox-ua-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="tnt-music"  ,ТНТ Music
+http://de.russkoe-iptv.com:88/s/bb7f8927/tnt-music.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="o2tv-hd"  ,O!2 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/o2tv-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="zhara"  ,Жара
+http://de.russkoe-iptv.com:88/s/bb7f8927/zhara.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="zhara-hd"  ,Жара HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/zhara-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="ru-tv"  ,RU TV
+http://de.russkoe-iptv.com:88/s/bb7f8927/ru-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="aiva-hd"  ,AIVA HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/aiva-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="viva-russia-hd"  ,VIVA Russia HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/viva-russia-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="kronehit-hd"  ,Kronehit HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kronehit-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="one-by-hd"  ,One BY HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/one-by-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="power-hd-tr"  ,Power HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/power-hd-tr.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="clubbing-hd"  ,Clubbing HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/clubbing-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mooz-dance-hd"  ,Mooz Dance HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/mooz-dance-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv"  ,Bridge TV
+http://de.russkoe-iptv.com:88/s/bb7f8927/bridge-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-hd"  ,Bridge TV Deluxe HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/bridge-tv-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="rusong-tv"  ,BRIDGE TV Русский Хит
+http://de.russkoe-iptv.com:88/s/bb7f8927/rusong-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-classic"  ,Bridge TV Classic
+http://de.russkoe-iptv.com:88/s/bb7f8927/bridge-classic.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="dance-tv"  ,Bridge TV Hits
+http://de.russkoe-iptv.com:88/s/bb7f8927/dance-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-fresh"  ,Bridge TV Fresh
+http://de.russkoe-iptv.com:88/s/bb7f8927/bridge-tv-fresh.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-shlager"  ,Bridge TV Шлягер
+http://de.russkoe-iptv.com:88/s/bb7f8927/bridge-tv-shlager.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="m1-ua"  ,M1
+http://de.russkoe-iptv.com:88/s/bb7f8927/m1-ua.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="m1-ua-hd"  ,M1 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/m1-ua-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="m2-ua"  ,M2
+http://de.russkoe-iptv.com:88/s/bb7f8927/m2-ua.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="m2-ua-hd"  ,M2 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/m2-ua-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="la-minor"  ,Ля-минор
+http://de.russkoe-iptv.com:88/s/bb7f8927/la-minor.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="shanson-tv"  ,Шансон ТВ
+http://de.russkoe-iptv.com:88/s/bb7f8927/shanson-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="c-music-hd"  ,C Music TV
+http://de.russkoe-iptv.com:88/s/bb7f8927/c-music-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="iconcerts-hd"  ,iConcerts
+http://de.russkoe-iptv.com:88/s/bb7f8927/iconcerts-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="classic-music"  ,Classic Music
+http://de.russkoe-iptv.com:88/s/bb7f8927/classic-music.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mezzo-hd"  ,Mezzo Live HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/mezzo-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-live-hd"  ,MTV Live HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/mtv-live-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-hits"  ,MTV Hits
+http://de.russkoe-iptv.com:88/s/bb7f8927/mtv-hits.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="vh1-europe"  ,MTV 00s
+http://de.russkoe-iptv.com:88/s/bb7f8927/vh1-europe.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-rocks"  ,MTV 90s
+http://de.russkoe-iptv.com:88/s/bb7f8927/mtv-rocks.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="vh1-classic"  ,MTV 80s
+http://de.russkoe-iptv.com:88/s/bb7f8927/vh1-classic.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mcm"  ,MCM TOP
+http://de.russkoe-iptv.com:88/s/bb7f8927/mcm.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mcm-top-hd"  ,MCM TOP HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/mcm-top-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="4ever-music-hd"  ,4ever Music HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/4ever-music-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="eu-music-hd"  ,EU Music HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/eu-music-hd.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="penthouse1-hd"  ,Penthouse Gold
+http://de.russkoe-iptv.com:88/s/bb7f8927/penthouse1-hd.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="penthouse2-hd"  ,Penthouse Quickies
+http://de.russkoe-iptv.com:88/s/bb7f8927/penthouse2-hd.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="redlight-hd"  ,Redlight HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/redlight-hd.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="dorcel-hd"  ,Dorcel TV HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/dorcel-hd.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="vivid-red-hd"  ,Vivid Red HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/vivid-red-hd.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="private-tv"  ,Private HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/private-tv.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="hustler-hd"  ,Hustler HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/hustler-hd.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="eroxxx-hd"  ,Eroxxx HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/eroxxx-hd.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="brazzers-tv"  ,Brazzers TV HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/brazzers-tv.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="babes-hd"  ,Babes HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/babes-hd.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="xxl-tv"  ,XXL
+http://de.russkoe-iptv.com:88/s/bb7f8927/xxl-tv.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="dorcel-tv"  ,Dorcel TV
+http://de.russkoe-iptv.com:88/s/bb7f8927/dorcel-tv.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="blue-hustler"  ,Blue Hustler
+http://de.russkoe-iptv.com:88/s/bb7f8927/blue-hustler.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="o-la-la"  ,O-La-La
+http://de.russkoe-iptv.com:88/s/bb7f8927/o-la-la.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="ruskaja-noch"  ,Русская Ночь
+http://de.russkoe-iptv.com:88/s/bb7f8927/ruskaja-noch.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="red-lips" ,Red Lips
+http://de.russkoe-iptv.com:88/s/bb7f8927/red-lips.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="jasmintv-hd"  ,Jasmin TV
+http://de.russkoe-iptv.com:88/s/bb7f8927/jasmintv-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="1nezalegny-ua"  ,Ukrlive
+http://de.russkoe-iptv.com:88/s/bb7f8927/1nezalegny-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="1nezalegny-hd-ua"  ,Ukrlive HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/1nezalegny-hd-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="24tv-ua"  ,24 Канал
+http://de.russkoe-iptv.com:88/s/bb7f8927/24tv-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ukraina-24-hd"  ,Украина 24 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/ukraina-24-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="chptv-ua"  ,ЧП Info
+http://de.russkoe-iptv.com:88/s/bb7f8927/chptv-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="oboz-ua-hd"  ,OBOZ TV HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/oboz-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ntn"  ,НТН
+http://de.russkoe-iptv.com:88/s/bb7f8927/ntn.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ntn-ua-hd"  ,НТН HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/ntn-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tet"  ,ТЕТ
+http://de.russkoe-iptv.com:88/s/bb7f8927/tet.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tet-ua-hd"  ,ТЕТ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/tet-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="plus-plus"  ,Eспресо TV
+http://de.russkoe-iptv.com:88/s/bb7f8927/plus-plus.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="espresso-ua-hd"  ,Eспресо TV HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/espresso-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tonis-ua"  ,Прямий
+http://de.russkoe-iptv.com:88/s/bb7f8927/tonis-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tonis-hd-ua"  ,Прямий HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/tonis-hd-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="dom-ua"  ,Дом
+http://de.russkoe-iptv.com:88/s/bb7f8927/dom-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="k1-ua"  ,K1
+http://de.russkoe-iptv.com:88/s/bb7f8927/k1-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="k1-ua-hd"  ,K1 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/k1-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="k2-ua"  ,K2
+http://de.russkoe-iptv.com:88/s/bb7f8927/k2-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="k2-ua-hd"  ,K2 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/k2-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="kvartal-tv-ua"  ,Квартал ТВ
+http://de.russkoe-iptv.com:88/s/bb7f8927/kvartal-tv-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="5kanal-ukraina"  ,5 канал HD UA
+http://de.russkoe-iptv.com:88/s/bb7f8927/5kanal-ukraina.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="enter-film-ua"  ,Enter-фільм
+http://de.russkoe-iptv.com:88/s/bb7f8927/enter-film-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="enter-film-ua-hd"  ,Enter-фільм HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/enter-film-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="star-cinema-ua-hd"  ,Star Cinema HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/star-cinema-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="star-family-ua-hd"  ,Star Family HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/star-family-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="bolt-ua-hd"  ,Болт HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/bolt-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ictv"  ,ICTV
+http://de.russkoe-iptv.com:88/s/bb7f8927/ictv.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ictv-ua-hd"  ,ICTV HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/ictv-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="stb"  ,СТБ
+http://de.russkoe-iptv.com:88/s/bb7f8927/stb.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="stb-ua-hd"  ,СТБ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/stb-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="pervyj-national-ua"  ,Перший Національний
+http://de.russkoe-iptv.com:88/s/bb7f8927/pervyj-national-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="pervyj-ua-hd"  ,Перший Національний HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/pervyj-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="inter"  ,Интер
+http://de.russkoe-iptv.com:88/s/bb7f8927/inter.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="inter-ua-hd"  ,Интер HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/inter-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="inter-plus-ua"  ,Интер+
+http://de.russkoe-iptv.com:88/s/bb7f8927/inter-plus-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="inter-plus-ua-hd"  ,Интер+ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/inter-plus-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="1-plus-1"  ,1+1
+http://de.russkoe-iptv.com:88/s/bb7f8927/1-plus-1.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="1-plus-1-hd"  ,1+1 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/1-plus-1-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="2-plus-2-ua"  ,2+2
+http://de.russkoe-iptv.com:88/s/bb7f8927/2-plus-2-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="2-plus-2-ua-hd"  ,2+2 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/2-plus-2-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="bigudi-ua"  ,Бигуди
+http://de.russkoe-iptv.com:88/s/bb7f8927/bigudi-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="unian-tv-ua"  ,УНІАН
+http://de.russkoe-iptv.com:88/s/bb7f8927/unian-tv-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="unian-hd-ua"  ,Уніан HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/unian-hd-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="novij-kanal"  ,Новый Канал
+http://de.russkoe-iptv.com:88/s/bb7f8927/novij-kanal.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="novyj-kanal-ua-hd"  ,Новый Канал HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/novyj-kanal-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="trk-ua"  ,Україна
+http://de.russkoe-iptv.com:88/s/bb7f8927/trk-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="trk-ua-hd"  ,Україна HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/trk-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="oce-ua-hd"  ,ОЦЕ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/oce-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="zoom-ua"  ,ZOOM
+http://de.russkoe-iptv.com:88/s/bb7f8927/zoom-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="zoom-ua-hd"  ,ZOOM HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/zoom-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="mega-ua"  ,Мега
+http://de.russkoe-iptv.com:88/s/bb7f8927/mega-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="mega-ua-hd"  ,Мега HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/mega-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="indigo-ua"  ,Индиго
+http://de.russkoe-iptv.com:88/s/bb7f8927/indigo-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="indigo-ua-hd"  ,Индиго HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/indigo-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="kus-kus-ua-hd"  ,Кус Кус HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/kus-kus-ua-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus1-by"  ,Беларусь 1
+http://de.russkoe-iptv.com:88/s/bb7f8927/belarus1-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus1-by-hd"  ,Беларусь 1 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/belarus1-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus2"  ,Беларусь 2
+http://de.russkoe-iptv.com:88/s/bb7f8927/belarus2.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus2-by-hd"  ,Беларусь 2 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/belarus2-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus3-by"  ,Беларусь 3
+http://de.russkoe-iptv.com:88/s/bb7f8927/belarus3-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus3-by-hd"  ,Беларусь 3 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/belarus3-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus5"  ,Беларусь 5
+http://de.russkoe-iptv.com:88/s/bb7f8927/belarus5.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus5-by-hd"  ,Беларусь 5 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/belarus5-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus-24"  ,Беларусь 24
+http://de.russkoe-iptv.com:88/s/bb7f8927/belarus-24.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus-24-hd"  ,Беларусь 24 HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/belarus-24-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="ont-by"  ,ОНТ
+http://de.russkoe-iptv.com:88/s/bb7f8927/ont-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="ont-by-hd"  ,ОНТ HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/ont-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="stv-by"  ,СТВ Беларусь
+http://de.russkoe-iptv.com:88/s/bb7f8927/stv-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="stv-by-hd"  ,СТВ Беларусь HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/stv-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="8kanal-by-hd"  ,8 канал HD BY
+http://de.russkoe-iptv.com:88/s/bb7f8927/8kanal-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belsat-by"  ,Белсат
+http://de.russkoe-iptv.com:88/s/bb7f8927/belsat-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belsat-by-hd"  ,Белсат HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/belsat-by-hd.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="pervyj-plus-2"  ,First канал (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/pervyj-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="rossija1-plus-2"  ,Russia 1 (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/rossija1-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="ntv-plus-2"  ,NTV (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/ntv-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="tnt-plus-2"  ,ТНТ (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/tnt-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="rentv-plus-2"  ,REN ТВ (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/rentv-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="sts-plus-2"  ,СТС (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/sts-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="domashnij-plus-2"  ,Домашний (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/domashnij-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="piatnica-plus-2"  ,Пятница (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/piatnica-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="tv3-plus-2"  ,ТВ3 (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv3-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="tvc-plus-2"  ,ТВЦ (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/tvc-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="zvezda-plus-2"  ,3DE3DA (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/zvezda-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="5kanal-plus-2"  ,5 канал (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/5kanal-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="mir-plus-2"  ,Мир (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/mir-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="otp-plus-2"  ,ОТР (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/otp-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="rossija-k-plus-2"  ,Russia-Культура (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/rossija-k-plus-2.m3u8
+#EXTINF:0 group-title="Russia +2ч" tvg-id="match-plus-2"  ,Матч ТВ (+2)
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-plus-2.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="pervyj-plus-4"  ,First канал (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/pervyj-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="pervyj-hd-plus-4"  ,First канал HD (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/pervyj-hd-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="rossija1-plus-4"  ,Russia 1 (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/rossija1-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="ntv-plus-4"  ,NTV (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/ntv-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="tnt-plus-4"  ,ТНТ (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/tnt-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="sts-plus-4"  ,СТС (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/sts-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="rentv-plus-4"  ,REN ТВ (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/rentv-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="tv3-plus-4"  ,ТВ3 (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv3-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="piatnica-plus-4"  ,Пятница (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/piatnica-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="domashnij-plus-4"  ,Домашний (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/domashnij-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="tvc-plus-4"  ,ТВЦ (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/tvc-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="zvezda-plus-4"  ,3DE3DA (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/zvezda-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="5kanal-plus-4"  ,5 канал (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/5kanal-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="mir-plus-4"  ,Мир (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/mir-plus-4.m3u8
+#EXTINF:0 group-title="Russia +4ч" tvg-id="match-plus-4"  ,Матч ТВ (+4)
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-plus-4.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="pervyj-plus-7"  ,First канал (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/pervyj-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="rossija1-plus-7"  ,Russia 1 (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/rossija1-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="ntv-plus-7"  ,NTV (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/ntv-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="tnt-plus-7"  ,ТНТ (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/tnt-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="rentv-plus-7"  ,REN ТВ (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/rentv-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="sts-plus-7"  ,СТС (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/sts-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="domashnij-plus-7"  ,Домашний (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/domashnij-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="piatnica-plus-7"  ,Пятница (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/piatnica-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="tv3-plus-7"  ,ТВ3 (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/tv3-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="tvc-plus-7"  ,ТВЦ (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/tvc-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="zvezda-plus-7"  ,3DE3DA (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/zvezda-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="5kanal-plus-7"  ,5 канал (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/5kanal-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="mir-plus-7"  ,Мир (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/mir-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="otp-plus-7"  ,ОТР (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/otp-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="rossija-k-plus-7"  ,Russia-Культура (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/rossija-k-plus-7.m3u8
+#EXTINF:0 group-title="Russia +7ч" tvg-id="match-plus-7"  ,Матч ТВ (+7)
+http://de.russkoe-iptv.com:88/s/bb7f8927/match-plus-7.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="dom-ua-hd"  ,Дом HD
+http://de.russkoe-iptv.com:88/s/bb7f8927/dom-ua-hd.m3u8
