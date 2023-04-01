@@ -1,0 +1,16 @@
+.cont{
+  margin: 20px 300px 0px 300px;
+}
+li {
+  display: inline;
+}
+p{
+  text-indent: 50px;
+}
+.sender-image{
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+}
