@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>WolFWarrioR</title>
+    <!-- Facebook Meta Tags -->
+    <meta
+      property="og:url"
+      content="https://wolfwarr1or.github.io/index.html/"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="WolFWarrioR" />
+    <meta property="og:site_name" content="WolFWarrioR's Site" />
+    <meta property="og:description" content="In process" />
+    <!-- <meta property="og:image" content="https://webstatic-sea.mihoyo.com/upload/static-resource/2021/06/01/8743eaf08e0095844515d53bcab9f651_8689028404366268787.jpg"/> -->
+    <meta
+      property="og:image"
+      content="https://wolfwarr1or.github.io/images/ogpKvit2024.png"
+    />
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="WolFWarrioR" />
+    <meta name="twitter:description" content="In process" />
+    <!-- <meta name="twitter:image" content="https://webstatic-sea.mihoyo.com/upload/static-resource/2021/06/01/8743eaf08e0095844515d53bcab9f651_8689028404366268787.jpg"/> -->
+
+    <meta
+      property="twitter:image"
+      content="https://wolfwarr1or.github.io/images/ogpKvit2024.png"
+    />
+</head>
+<body>
+  <style>
+    nav{
+    display: block;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    max-width: 100vw;
+    color:white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    z-index: 1000;
+}
+
+.nav_bar{
+    background: rgba(0,80,239,.8);
+    border-radius: 10px;
+    height: 72px;
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    top: 16px;
+    right: 16px;
+    align-items: center;
+    left: 16px;
+    z-index: 100;
+}
+
+
+.nav__logo{
+    /* background-color: rgba(156, 154, 0, 0.95); */
+    height: 100%;
+    align-items: center;
+    display: inline-flex;
+    padding-left: 32px;
+    padding-right: 20px;
+    border-radius: 10px 0 0 10px;
+}
+
+.nav__site__icon{
+    padding-left: 16px;
+}
+
+.nav__menu{
+    flex: 1 1 auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.nav__menu a{
+    padding: 0 16px;
+    min-height: 48px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.nav__menu a:hover{
+    background-color: #0000000d;
+}
+
+
+.nav__socials{
+    padding: 0 12px;
+}
+
+.nav__social{
+    padding: 0 16px;
+    background-color: #5eb7f7; /* змінити на var(--color...) */
+    box-sizing: border-box;
+    display: inline-flex;
+    align-items: center;
+    min-height: 48px;
+    line-height: normal;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+}
+
+.nav__social__icon{
+    color: #ffffff;
+    display: inline-flex;
+    box-sizing: border-box;
+    height: 24px;
+    margin-right: 8px;
+    width: 24px;
+}
+
+.nav__social__text{
+    color: #ffffff;
+}
+
+section.main{
+    top: 0;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+}
+.main__logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 50px;
+}
+section.main svg{
+    width: 83.33%;
+}
+
+section{
+    min-height: 15vh;
+}
+
+
+
+
+
+footer{
+    padding: 120px 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+
+#top_links{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+
+
+.footer__top_link{
+    display: flex;
+    min-height: 48px;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0 16px;
+}
+
+.footer__top_link:hover{
+    background: #ffffff0d;
+}
+
+slp-locale-sel{
+    flex: 1 1 0%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+
+.slp-loc-sel{
+    display: flex;
+    justify-content: flex-end;
+
+} 
+.dropdown{
+    justify-content: flex-end;
+    display: flex;
+}
+
+
+
+
+.divider{
+    display: block;
+    margin-top: 32px;
+    width: 100%;
+}
+
+.divider hr{
+    
+    border-color: rgba(255, 255, 255, 0.125);
+}
+
+
+.bottom_section{
+    display: block;
+}
+
+
+#wlfwr-logo {
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+
+}
+slp-logo-main{
+    display: inline-block;
+    min-width: 24px;
+    min-height: 24px;
+}
+
+
+svg g#NavbarFooter-blizzard-upper *{
+    fill:blue;
+}
+
+
+
+.info_desktop{
+    /* margin-left: 40px; */
+    display: none;
+}
+
+.trademark span{
+    color: #ffffff80;
+}
+
+#bottom_links{
+    color: #ffffff80;
+    display: flex;
+    margin-top: 10px;
+    flex-wrap: wrap;
+}
+
+.nav_link_content{
+    min-height: 32px;
+    padding: 0 8px;
+}
+
+
+.footer__copyright, .trademark{
+    font-size: 1.15rem;
+    line-height: 1.75rem;
+    text-align: left;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    align-self: flex-end;
+    width: 100%;
+}
+
+
+/* body{
+    color:#eeeeee;
+    background-image: radial-gradient(circle at center, var(--transparent-black) 4%, transparent 6%);
+    background-size: 22px 22px;
+    background-color: #ffd1da;
+    margin: 0;
+    animation: bg-scrolling 0.88s infinite;
+} */
+
+body {
+    color: #eeeeee;
+    margin: 0;
+    background-image: radial-gradient(circle at center, #242424 4%, transparent 6%);
+    background-size: 22px 22px;
+    background-color: #0b0b0b;
+    animation: bg-scrolling 0.88s infinite;
+    animation-timing-function: ease;
+    transition: all 0.1s ease-in-out;
+    animation-timing-function: linear;
+  }
+
+@keyframes bg-scrolling { 100% {background-position: -22px 22px;} }
+#overlay{
+    display: none;
+}
+#icon,.chevron-icon{
+    display: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline: red 1px solid!important;
+    
+}
+
+a{
+    text-decoration: none;
+}
+a:visited{
+    color:inherit;
+}
+
+svg{
+    height: 100%;
+    width: 100%;
+}
+button {
+    background: none;
+    border: medium;
+    color: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    padding: 0px;
+    position: relative;
+    text-decoration: none;
+}
+
+/* 
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  } */
+
+
+
+@media screen and (min-width: 960px) {
+    .top_section--desktop{
+        display: flex;
+        flex-wrap: nowrap;
+        position: relative;
+        width: 100% ;
+    }
+    #top_links{
+        justify-content: flex-start;
+    }
+    .bottom_section{
+        width: 100%;
+        position: relative;
+    }
+    .bottom--left{
+        display: flex;
+        margin-top: 42px;
+        position: relative;
+        text-align: left;
+    }
+    .logo{
+        /* height: 80px; */
+        margin: 0;
+    }
+    .info_desktop{
+        display: block;
+    }
+    #bottom_links{
+        margin-left: -8px;
+        justify-content: flex-start;
+    }
+}
+  </style>
+    <nav>
+        <div class="nav_bar">
+            <a href="/" class="nav__logo">WOLFWARRIOR</a>
+            <!-- <a href="" class="nav__site__icon">SLPA    </a> -->
+            <div class="nav__menu">
+                <a href="/" class="nav__menu__link">Portfolio</a>
+                <a href="/" class="nav__menu__link">Blog</a>
+                <a href="/" class="nav__menu__link">Links</a>
+                <a href="/" class="nav__menu__link">Contacts</a>
+            </div>
+            <!-- /.nav__menu -->
+            <div class="nav__socials">
+                <a href="https://t.me/wweleblog" class="nav__social">
+                    <div class="nav__social__icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="inherit" height="inherit" fill="currentColor" class="bi bi-telegram" viewBox="0 0 16 16">
+                    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.287 5.906q-1.168.486-4.666 2.01-.567.225-.595.442c-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294q.39.01.868-.32 3.269-2.206 3.374-2.23c.05-.012.12-.026.166.016s.042.12.037.141c-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8 8 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629q.14.092.27.187c.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.4 1.4 0 0 0-.013-.315.34.34 0 0 0-.114-.217.53.53 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09"></path>
+                </svg>
+                    </div><div class="nav__social__text">TG BLOG</div></a>
+            </div>
+            <!-- /.nav__socials -->
+        </div>
+    </nav>
+    <section class="main">
+        <div class="main__logo">
+            <svg version="1.1" id="svg1" width="100%" height="100%" viewBox="0 0 129.59999 10.799988" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+                <defs id="defs1">
+                  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath32-4">
+                    <path d="M 0,244.716 H 523.316 V 0 H 0 Z" transform="translate(-55.103002,-189.3887)" id="path32-5"></path>
+                  </clipPath>
+                  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath34-1">
+                    <path d="M 0,244.716 H 523.316 V 0 H 0 Z" transform="translate(-91.203002,-189.3887)" id="path34-3"></path>
+                  </clipPath>
+                  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath36-8">
+                    <path d="M 0,244.716 H 523.316 V 0 H 0 Z" transform="translate(-63.503002,-183.2887)" id="path36-6"></path>
+                  </clipPath>
+                  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath38-8">
+                    <path d="M 0,244.716 H 523.316 V 0 H 0 Z" transform="translate(-68.203001,-183.0887)" id="path38-2"></path>
+                  </clipPath>
+                  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath40-4">
+                    <path d="M 0,244.716 H 523.316 V 0 H 0 Z" transform="translate(-75.903002,-187.6887)" id="path40-9"></path>
+                  </clipPath>
+                  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath42-1">
+                    <path d="M 0,244.716 H 523.316 V 0 H 0 Z" transform="translate(-94.903,-184.3887)" id="path42-6"></path>
+                  </clipPath>
+                  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath44-7">
+                    <path d="M 0,244.716 H 523.316 V 0 H 0 Z" transform="translate(-104.103,-185.9887)" id="path44-5"></path>
+                  </clipPath>
+                  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath46-1">
+                    <path d="M 0,244.716 H 523.316 V 0 H 0 Z" transform="translate(-113.60301,-185.9887)" id="path46-7"></path>
+                  </clipPath>
+                  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath48-1">
+                    <path d="M 0,244.716 H 523.316 V 0 H 0 Z" transform="translate(-121.203,-189.2887)" id="path48-0"></path>
+                  </clipPath>
+                  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath50-8">
+                    <path d="M 0,244.716 H 523.316 V 0 H 0 Z" transform="translate(-130.70301,-183.3887)" id="path50-8"></path>
+                  </clipPath>
+                  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath52-5">
+                    <path d="M 0,244.716 H 523.316 V 0 H 0 Z" transform="translate(-135.303,-185.9887)" id="path52-3"></path>
+                  </clipPath>
+                </defs>
+                <g id="layer-MC0" transform="translate(-33.955471,-365.92069)">
+                  <g id="g2" transform="translate(-26.04853,292.15094)">
+                    <path id="path31-7" d="M 0,0 -1.5,-5.1 -3,0 h -1.8 l -1.6,-5 -1.4,5 h -2.3 l 2.7,-8 h 1.7 l 1.6,4.8 1.6,-4.8 h 1.8 L 2,0 Z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.3333333,0,0,-1.3333333,73.470667,73.769733)" clip-path="url(#clipPath32-4)"></path>
+                    <path id="path33-3" d="M 0,0 -1.5,-5.1 -3,0 h -1.8 l -1.6,-5 -1.4,5 h -2.3 l 2.7,-8 h 1.7 l 1.6,4.8 1.6,-4.8 h 1.8 L 2,0 Z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.3333333,0,0,-1.3333333,121.604,73.769733)" clip-path="url(#clipPath34-1)"></path>
+                    <path id="path35-7" d="m 0,0 c 0,-0.2 -0.1,-0.3 -0.3,-0.3 h -4 c -0.2,0 -0.3,0.1 -0.3,0.3 v 4 c 0,0.2 0.1,0.3 0.3,0.3 h 4 C -0.1,4.3 0,4.2 0,4 Z M 0.1,6 H -4.7 C -5,6 -5.3,5.9 -5.6,5.8 l -1,-3 v -2.9 c 0,-1.1 0.8,-1.9 1.9,-1.9 H 0.1 C 1.2,-2 2,-1.2 2,-0.1 V 4.2 C 1.9,5.3 1.2,6 0.1,6" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.3333333,0,0,-1.3333333,84.670667,81.903067)" clip-path="url(#clipPath36-8)"></path>
+                    <path id="path37-4" d="m 0,0 v 6.3 h -2 v -8 H 5.1 V 0 Z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.3333333,0,0,-1.3333333,90.937333,82.169733)" clip-path="url(#clipPath38-8)"></path>
+                    <path id="path39-7" d="M 0,0 H 5 L 4.4,1.7 h -6.3 v -8 h 2 v 3.2 h 3.5 v 1.7 H 0.1 V 0 Z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.3333333,0,0,-1.3333333,101.204,76.0364)" clip-path="url(#clipPath40-4)"></path>
+                    <path id="path41-1" d="M 0,0 1.5,3 3,0 Z M 2.4,4.9 H 0.7 l -4.2,-8 h 2.1 l 0.7,1.4 h 4.4 l 0.7,-1.4 h 2.2 z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.3333333,0,0,-1.3333333,126.53733,80.4364)" clip-path="url(#clipPath42-1)"></path>
+                    <path id="path43-4" d="M 0,0 V 1.6 H 3.5 C 3.9,1.6 4,1.5 4,1.1 V 0.4 C 4,0.1 3.9,-0.1 3.5,-0.1 H 0 Z m 3.6,-1.7 h 0.5 c 1,0 1.7,0.5 1.7,1.7 V 1.7 C 5.8,2.8 5.2,3.4 4.1,3.4 H -2 v -8 h 2 v 2.9 h 1.1 l 3.2,-2.9 h 2.5 z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.3333333,0,0,-1.3333333,138.804,78.303067)" clip-path="url(#clipPath44-7)"></path>
+                    <path id="path45-8" d="M 0,0 V 1.6 H 3.5 C 3.9,1.6 4,1.5 4,1.1 V 0.4 C 4,0.1 3.9,-0.1 3.5,-0.1 H 0 Z m 3.6,-1.7 h 0.5 c 1,0 1.7,0.5 1.7,1.7 V 1.7 C 5.8,2.8 5.2,3.4 4.1,3.4 H -2 v -8 h 2 v 2.9 h 1.1 l 3.2,-2.9 h 2.5 z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.3333333,0,0,-1.3333333,151.47067,78.303067)" clip-path="url(#clipPath46-1)"></path>
+                    <path id="path47-4" d="M 0,0 V -8 H 2 V 0 Z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.3333333,0,0,-1.3333333,161.604,73.903067)" clip-path="url(#clipPath48-1)"></path>
+                    <path id="path49-8" d="m 0,0 c 0,-0.2 0,-0.3 -0.3,-0.3 h -4 c -0.2,0 -0.3,0.1 -0.3,0.3 v 4 c 0,0.2 0.1,0.3 0.3,0.3 h 4 C -0.1,4.3 0,4.2 0,4 Z M 0.1,6 H -4.7 C -5.9,6 -6.6,5.3 -6.6,4.1 v -4.2 c 0,-1.1 0.8,-1.9 1.9,-1.9 H 0.1 C 1.2,-2 2,-1.2 2,-0.1 V 4.1 C 2,5.2 1.2,6 0.1,6" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.3333333,0,0,-1.3333333,174.27067,81.769733)" clip-path="url(#clipPath50-8)"></path>
+                    <path id="path51-5" d="M 0,0 V 1.6 H 3.5 C 3.9,1.6 4,1.5 4,1.1 V 0.4 C 4,0.1 3.9,-0.1 3.5,-0.1 H 0 Z m 3.6,-1.7 h 0.6 c 1,0 1.7,0.5 1.7,1.7 v 1.7 c 0,1.1 -0.6,1.7 -1.7,1.7 h -6.1 v -8 h 2 v 2.9 h 1.1 l 3.2,-2.9 h 2.5 z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.3333333,0,0,-1.3333333,180.404,78.303067)" clip-path="url(#clipPath52-5)"></path>
+                    </g>
+                </g>
+            </svg>
+
+        </div>
+        <h1>In progress</h1>
+
+    </section>
+    <!-- /.main -->
+    <section class="social_footer">
+        <section class="social"></section>
+        <section class="footer">
+            <footer content="slyapa">
+                <div class="top_section--desktop">
+            
+                    <span id="top_links">
+                        <a href="" class="footer__top_link">
+                            <span class="nav_link__text">About us</span>
+                        </a>
+                        <a href="" class="footer__top_link">
+                            <span class="nav_link__text">Portfolio</span>
+                        </a>
+                        <a href="" class="footer__top_link">
+                            <span class="nav_link__text">Press-News</span>
+                        </a>
+                        <a href="" class="footer__top_link">
+                            <span class="nav_link__text">SiteMap</span>
+                        </a>
+                        <a href="" class="footer__top_link">
+                            <span class="nav_link__text">Contact us</span>
+                        </a>
+                    </span>
+
+                    <slp-locale-sel>
+                        <div class="slp-loc-sel">
+                            <div id="overlay"></div>
+                            <button class="locale_toggle dropdown">
+                                <div class="nav_link__content">
+                                    <div class="icon"></div>
+                                    <div class="nav_link__text">English</div>
+                                    <div class="chevron-icon">
+                                        <div class="chevron-icon__content">
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" part="icon blz-icon"><path d="m6 9 6 6 6-6"></path></svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </slp-locale-sel>
+                </div>
+                <div class="divider"><hr></div>
+                <div class="bottom_section">
+                    <span class="bottom--left">
+                        <div style="display: none;" id="wlfwr-logo" class="logo">
+                            <div class="logo">
+                                <a href="">
+                                    <slp-logo-main>
+                                        <!-- WolFWarrioR -->
+                                    </slp-logo-main>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="info_desktop">
+                            <div id="trademark" class="trademark">
+                                <span>WolFWarrioR & © 2024 - SLYAPA MEDIA CORPORATION</span>
+                                <br>
+                                <span>All trademarks referenced herein are the properties of their respective owners</span>
+                            </div>
+                            <!-- <div id="bottom_links">
+                                <a href="" class="nav_link">
+                                    <span class="nav_link_content">
+                                        <span class="nav_link__text">Privacy</span>
+                                    </span>
+                                </a>
+                                <a href="" class="nav_link">
+                                    <span class="nav_link_content">
+                                        <span class="nav_link__text">Legal</span>
+                                    </span>
+                                </a>
+                                <a href="" class="nav_link">
+                                    <span class="nav_link_content">
+                                        <span class="nav_link__text">Terms</span>
+                                    </span>
+                                </a>
+                                <a href="" class="nav_link">
+                                    <span class="nav_link_content">
+                                        <span class="nav_link__text">Cookie Policy</span>
+                                    </span>
+                                </a>
+                                <a href="" class="nav_link">
+                                    <span class="nav_link_content">
+                                        <span class="nav_link__text">Cookie Settings</span>
+                                    </span>
+                                </a>
+                            </div> -->
+                        </div>
+                    </span>
+                </div>
+            </footer>
+        </section>
+    </section>
+</body>
+</html>
