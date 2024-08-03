@@ -1,0 +1,5 @@
+https://medium.com/@ayeshashabbirshabbirahmad/voice-classification-through-mel-frequency-cepstral-coefficients-mfcc-and-deep-neural-networks-77dd7dce0fa4
+
+
+
+https://www.tutorialspoint.com/how-to-train-mfcc-using-machine-learning-algorithms
